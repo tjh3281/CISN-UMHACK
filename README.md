@@ -3,8 +3,6 @@
 
 **TRY OUR APP : https://zai-1054928413411.asia-southeast1.run.app/  
 
-**DOCUMENT** :  
-
 Frontend repo : https://github.com/Mingzhe0324/ZAI-Frontend.git
 
 **Domain:** Fintech  
