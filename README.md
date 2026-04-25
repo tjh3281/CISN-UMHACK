@@ -1,4 +1,9 @@
-# Zai — Intelligent Warehouse Restock Manager
+# Zai — Intelligent Warehouse Restock Manager  
+**PITCH VIDEO** : [https://drive.google.com/file/d/1Zu69AVoRRHPvtjkNs8cESmo6fnS-4UZj/view?usp=sharing](https://l1nk.dev/m8vpqmu)  
+
+**DOCUMENT** : 
+
+**TRY OUR APP : 
 Frontend repo : https://github.com/Mingzhe0324/ZAI-Frontend.git
 
 **Domain:** Fintech  
