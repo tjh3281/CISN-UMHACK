@@ -122,7 +122,9 @@ Zai resolves the description to a product ID via the product database, then cont
 
 ## How to Run  
 
-TRY OUR APP : https://zai-1054928413411.asia-southeast1.run.app/
+TRY OUR APP : https://zai-1054928413411.asia-southeast1.run.app/  
+
+TRY USING PHONE :
 
 <img width="300" height="300" alt="qr" src="https://github.com/user-attachments/assets/eee4fc8c-2075-49a8-b004-8f4767ca2838" />
 
