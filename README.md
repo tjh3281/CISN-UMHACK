@@ -1,9 +1,10 @@
 # Zai — Intelligent Warehouse Restock Manager  
 **PITCH VIDEO** : [https://drive.google.com/file/d/1Zu69AVoRRHPvtjkNs8cESmo6fnS-4UZj/view?usp=sharing](https://l1nk.dev/m8vpqmu)  
 
-**DOCUMENT** : 
+**TRY OUR APP : https://zai-1054928413411.asia-southeast1.run.app/  
 
-**TRY OUR APP : 
+**DOCUMENT** :  
+
 Frontend repo : https://github.com/Mingzhe0324/ZAI-Frontend.git
 
 **Domain:** Fintech  
@@ -119,7 +120,13 @@ Zai resolves the description to a product ID via the product database, then cont
 
 ---
 
-## How to Run
+## How to Run  
+
+TRY OUR APP : https://zai-1054928413411.asia-southeast1.run.app/
+
+<img width="300" height="300" alt="qr" src="https://github.com/user-attachments/assets/eee4fc8c-2075-49a8-b004-8f4767ca2838" />
+
+
 
 > All sources live in the `com.hackproject` package. Compiled classes go to `bin/`.
 > Windows uses `;` as the classpath separator; Linux/macOS uses `:`.
